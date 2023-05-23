@@ -1,0 +1,32 @@
+/*
+.text {
+    color: white;
+    background: #333;
+}
+*/
+
+h1{
+    margin-top:5%;
+    margin-left: 40%;
+    color: #0871da
+
+}
+
+
+div {
+    margin-top: 5%;
+    display: block;
+    background-color: #0871da;
+    border-radius: 15px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+label {
+      margin-left: 40%;
+}
+
+input{
+    margin-left: 40%;
+}
